@@ -8,7 +8,7 @@ The script is developed using Selenium.
 1. Use '''pip install selenium''' to download selenium package.
 2. Download webdriver that corresponds to your chrome version from: https://chromedriver.chromium.org/downloads
 3. Replace '''driver_path''' and '''google_form_path ''' to your own paths.
-4. Open your google form, right click at the  elements that you want to use (Textboxes, checkboxes, radio buttons, etc.), and click on inspect.
-        You should see the following:
+4. Open your google form, right click at the  elements that you want to use (Textboxes, checkboxes, radio buttons, etc.), and click on inspect.  
+        •You should see the following:  
 ![image](https://github.com/Jy158654/google-form-automation/assets/77066380/c7bc0e11-72bd-496b-aa27-511d8837ff01)
 
