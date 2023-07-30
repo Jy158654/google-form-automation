@@ -1,10 +1,10 @@
 # google-form-automation ✍️
 
-## Summary
+## ✨Summary
 This simple script can be useful to automate filling and submitting google form, especially when you need to fill up multiple responses!  
-The script is developed using Selenium.
+The script is developed using ```Selenium```.
 
-## How To Use
+## ❓ How To Use
 1. Use ```pip install selenium``` to download selenium package.
 2. Download webdriver that corresponds to your chrome version from: https://chromedriver.chromium.org/downloads
 3. Replace ```driver_path``` and ```google_form_path ``` to your own paths.
