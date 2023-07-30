@@ -2,7 +2,7 @@
 
 ## ✨Summary
 This simple script can be useful to automate filling and submitting google form, especially when you need to fill up multiple responses!  
-The script is developed using ```Selenium```.
+The project is developed using the automation library ```Selenium```.
 
 ## ❓ How To Use
 1. Use ```pip install selenium``` to download selenium package.
