@@ -5,7 +5,7 @@ This simple script can be useful to automate filling and submitting google form,
 The project is developed using the automation library ```Selenium```.
 
 ## ❓ How To Use
-1. Use ```pip install selenium``` to download selenium package.
+1. Use ```pip install selenium``` to download selenium library.
 2. Download webdriver that corresponds to your chrome version from: https://chromedriver.chromium.org/downloads
 3. Replace ```driver_path``` and ```google_form_path ```to your own paths.
 4. In your google form, right click at the  elements that you want to use (textboxes, checkboxes, radio buttons, etc.), and click on inspect. Refer to below:
