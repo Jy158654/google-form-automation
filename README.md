@@ -15,7 +15,7 @@ The project is developed using the automation library ```Selenium```.
 
 5. Replace XPath values in ```value``` from ```browser.find_elements()```accordingly. There are two ways to do it:  
 
-   a. Manually replace the expression"//input[@type='text']". This is the XPath expression that selects the <input> element with the type attribute equal to 'text'.
+   a. Manually replace the expression```"//input[@type='text']"```. This is the XPath expression that selects the <input> element with the type attribute equal to 'text'.
    
    b. Copy XPath directly from the page source and replace the XPath expression in the source code. Refer to below:
    
