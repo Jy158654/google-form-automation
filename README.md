@@ -17,7 +17,6 @@ The project is developed using the automation library ```Selenium```.
 
    a. Manually replace the expression"//input[@type='text']". This is the XPath expression that selects the <input> element with the type attribute equal to 'text'.
    
-   b. Copy XPath directly from the page source and replace the XPath expression in the source code.  
-      Refer to below:
+   b. Copy XPath directly from the page source and replace the XPath expression in the source code. Refer to below:
    
 <img src="https://github.com/Jy158654/google-form-automation/assets/77066380/d3d15e4e-987e-4411-9e45-cc1fed5e33ef" width="900">
