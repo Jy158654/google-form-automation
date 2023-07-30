@@ -12,7 +12,7 @@ The project is developed using the automation library ```Selenium```.
    
 <img src="https://github.com/Jy158654/google-form-automation/assets/77066380/c7bc0e11-72bd-496b-aa27-511d8837ff01" width="900">
 
-8. Replace XPath values in ```value``` from ```browser.find_elements()```accordingly. There are two ways to do it:  
+5. Replace XPath values in ```value``` from ```browser.find_elements()```accordingly. There are two ways to do it:  
 
    a. Manually replace the expression"//input[@type='text']". This is the XPath expression that selects the <input> element with the type attribute equal to 'text'.
    
